@@ -52,6 +52,12 @@ I'm a full-stack developer with a love for building robust, scalable, and user-f
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filimonfano&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filimonfano&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 Let's build something awesome together! 🚀
