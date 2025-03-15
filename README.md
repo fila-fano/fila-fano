@@ -39,21 +39,7 @@ I'm a full-stack developer with a strong passion for building robust, scalable, 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-### 1. **Project Name 1**
-- **Description:** A brief description of the project and its purpose.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Link:** [Live Demo](#) | [GitHub Repo](#)
-
-### 2. **Project Name 2**
-- **Description:** A brief description of the project and its purpose.
-- **Tech Stack:** Next.js, Django, PostgreSQL
-- **Link:** [Live Demo](#) | [GitHub Repo](#)
-
----
 
 ## 📈 GitHub Stats
 
